@@ -24,5 +24,14 @@ Choose the method that fits your workflow best:
 * **Studio Model (`.rbxm`):** Drag and drop `Quacks_2_Point_FABRIK_Solver.rbxm` directly into your existing Roblox Studio place.
 * **Raw Code:** Grab the source scripts directly from the `scripts/` folder if you use Rojo or want to manually paste them into your own objects.
 
+### ⚠️ Critical FBX Import Instructions
+If you are importing the included **FBX model** manually into Roblox Studio via the Asset Manager or 3D Importer, you **must change the scale settings**:
+1. Open the **3D Importer** in Roblox Studio.
+2. Select the FBX file.
+3. Locate the **Scale** property under the model's import settings.
+4. Set the **Scale value to exactly `0.0016`**.
+
+> **Why this matters:** Skipping this step will cause the bone hierarchy and skinned mesh boundaries to mismatch, leaving the mesh completely **distorted and deformed** once the solver activates.
+
 ## ⚖️ License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Created by lilvmass0-bit (QuackTheYuriNate).
