@@ -12,10 +12,6 @@ A prototype lightweight 2-point FABRIK solver for procedural gun slings, straps,
 
 ---
 
-### 📥 Quick Download
-* **[Download Solver Place (.rbxl)](https://github.com)**
-* **[Download Solver Model (.rbxm)](https://github.com)**
-
 ## 📁 How to Install
 
 Choose the method that fits your workflow best:
