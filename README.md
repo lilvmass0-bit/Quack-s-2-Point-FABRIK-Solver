@@ -2,7 +2,11 @@
 
 A prototype lightweight 2-point FABRIK solver for procedural gun slings, straps, and ropes in Roblox.
 
-> **Notice:** This is a prototype so it's kinda messy and basic. It doesn't use `ConnectParallel` because it's lightweight as it is and not fully scalable yet. If you want it scaled up, just ask an AI to adapt it using CollectionService tags or attributes.
+> **Important Setup Note:** This system is specifically designed for **Skinned Meshes** and **Roblox Bone objects**. It operates on bone hierarchies to procedurally deform meshes like weapon slings or tactical gear smoothly.
+> 
+> *Tip: If you don't know how to rig this, search for a **Roblox SmartBone rigging tutorial**, as the rigging process required for this solver is virtually identical.*
+> 
+> **Notice:** This is a prototype so it's kinda messy and basic. It doesn't use `ConnectParallel` because it's lightweight as it is and not fully scalable yet. If you want it scaled up, just ask an AI to adapt it using CollectionService tags or attributes. 
 > 
 > *Note: The included setup uses a ServerScript for the client wrapper by default, but you can easily move the logic completely client-sided for better performance and smoother replication.*
 
