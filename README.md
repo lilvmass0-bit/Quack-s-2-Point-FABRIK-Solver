@@ -15,7 +15,7 @@ A prototype lightweight 2-point FABRIK solver for procedural gun slings, straps,
 ### 📥 Quick Download
 * **[Download Solver Place (.rbxl)](https://github.com/lilvmass0-bit/Quack-s-2-Point-FABRIK-Solver/releases/download/v1.0.0/Quacks_2_Point_FABRIK_Solver.rbxl)**
 * **[Download Solver Model (.rbxm)](https://github.com/lilvmass0-bit/Quack-s-2-Point-FABRIK-Solver/releases/download/v1.0.0/Quacks_2_Point_FABRIK_Solver.rbxm)**
-* **[Download FBX (.rbxl)](https://github.com/lilvmass0-bit/Quack-s-2-Point-FABRIK-Solver/releases/download/v1.0.0/fbx.zip)**
+* **[Download FBX Mesh & Texture (.fbx)](https://github.com/lilvmass0-bit/Quack-s-2-Point-FABRIK-Solver/releases/download/v1.0.0/fbx.zip)**
 
 ## 📁 How to Install
 
