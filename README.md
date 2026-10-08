@@ -12,6 +12,21 @@ A prototype lightweight 2-point FABRIK solver for procedural gun slings, straps,
 
 ---
 
+## 🎥 Video Showcase
+See the procedural solver in action inside Roblox Studio:
+
+
+
+https://github.com/user-attachments/assets/4b11c5b2-2656-432e-95cb-a2b95497bfda
+
+
+
+https://github.com/user-attachments/assets/c49ee365-ef97-490a-86b5-b53a49c7240b
+
+
+
+---
+
 ### 📥 Quick Download
 * **[Download Solver Place (.rbxl)](https://github.com/lilvmass0-bit/Quack-s-2-Point-FABRIK-Solver/releases/download/v1.0.0/Quacks_2_Point_FABRIK_Solver.rbxl)**
 * **[Download Solver Model (.rbxm)](https://github.com/lilvmass0-bit/Quack-s-2-Point-FABRIK-Solver/releases/download/v1.0.0/Quacks_2_Point_FABRIK_Solver.rbxm)**
